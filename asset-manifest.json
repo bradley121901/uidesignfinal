@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uidesignfinal/static/css/main.2215e89b.css",
+    "main.js": "/uidesignfinal/static/js/main.f5d51241.js",
+    "index.html": "/uidesignfinal/index.html",
+    "main.2215e89b.css.map": "/uidesignfinal/static/css/main.2215e89b.css.map",
+    "main.f5d51241.js.map": "/uidesignfinal/static/js/main.f5d51241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2215e89b.css",
+    "static/js/main.f5d51241.js"
+  ]
+}
