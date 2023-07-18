@@ -163,7 +163,7 @@ export default function Chat6() {
                           <p class="card-title">
                             {' '}
                             <img
-                              src="/uidesign/pub.png"
+                              src="/uidesignfinal/pub.png"
                               alt="bug"
                               height="50px"
                               width="50px"
@@ -174,7 +174,7 @@ export default function Chat6() {
                           <p class="card-text">
                             <small class="text-muted">
                               <img
-                                src="/uidesign/billy.png"
+                                src="/uidesignfinal/billy.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -182,7 +182,7 @@ export default function Chat6() {
                               &nbsp;&nbsp; &nbsp;astons on 4th?
                               <p></p>
                               <img
-                                src="/uidesign/person3.png"
+                                src="/uidesignfinal/person3.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -196,7 +196,7 @@ export default function Chat6() {
                               &nbsp;
                               <Link to="/chat">
                                 <img
-                                  src="/uidesign/send.png"
+                                  src="/uidesignfinal/send.png"
                                   class="search"
                                   alt=" "
                                 />

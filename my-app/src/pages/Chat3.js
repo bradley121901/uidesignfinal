@@ -163,7 +163,7 @@ export default function Chat3() {
                           <p class="card-title">
                             {' '}
                             <img
-                              src="/uidesign/golfgroup.png"
+                              src="/uidesignfinal/golfgroup.png"
                               alt="bug"
                               height="50px"
                               width="50px"
@@ -174,7 +174,7 @@ export default function Chat3() {
                           <p class="card-text">
                             <small class="text-muted">
                               <img
-                                src="/uidesign/person4.png"
+                                src="/uidesignfinal/person4.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -182,7 +182,7 @@ export default function Chat3() {
                               &nbsp;&nbsp; &nbsp;come tmr if it's not raining
                               <p></p>
                               <img
-                                src="/uidesign/person2.png"
+                                src="/uidesignfinal/person2.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -197,7 +197,7 @@ export default function Chat3() {
                               &nbsp;
                               <Link to="/chat">
                                 <img
-                                  src="/uidesign/send.png"
+                                  src="/uidesignfinal/send.png"
                                   class="search"
                                   alt=" "
                                 />
@@ -223,7 +223,7 @@ export default function Chat3() {
                         <p class="card-title">
                           {' '}
                           <img
-                            src="/uidesign/scenerygroup.png"
+                            src="/uidesignfinal/scenerygroup.png"
                             alt="bug"
                             height="50px"
                             width="50px"
@@ -234,7 +234,7 @@ export default function Chat3() {
                         <p class="card-text">
                           <small class="text-muted">
                             <img
-                              src="/uidesign/person2.png"
+                              src="/uidesignfinal/person2.png"
                               alt="bug"
                               height="30px"
                               width="30px"
@@ -242,7 +242,7 @@ export default function Chat3() {
                             &nbsp;&nbsp; Theres a BBQ happening at Coles
                             <p></p>
                             <img
-                              src="/uidesign/person1.png"
+                              src="/uidesignfinal/person1.png"
                               alt="bug"
                               height="30px"
                               width="30px"
@@ -257,7 +257,7 @@ export default function Chat3() {
                             &nbsp;
                             <Link to="/chat">
                               <img
-                                src="/uidesign/send.png"
+                                src="/uidesignfinal/send.png"
                                 class="search"
                                 alt=" "
                               />

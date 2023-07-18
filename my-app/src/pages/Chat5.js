@@ -163,7 +163,7 @@ export default function Chat5() {
                           <p class="card-title">
                             {' '}
                             <img
-                              src="/uidesign/rage.png"
+                              src="/uidesignfinal/rage.png"
                               alt="bug"
                               height="50px"
                               width="50px"
@@ -174,7 +174,7 @@ export default function Chat5() {
                           <p class="card-text">
                             <small class="text-muted">
                               <img
-                                src="/uidesign/billyb.png"
+                                src="/uidesignfinal/billyb.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -183,7 +183,7 @@ export default function Chat5() {
                               putters!!!
                               <p></p>
                               <img
-                                src="/uidesign/person2.png"
+                                src="/uidesignfinal/person2.png"
                                 alt="bug"
                                 height="30px"
                                 width="30px"
@@ -198,7 +198,7 @@ export default function Chat5() {
                               &nbsp;
                               <Link to="/chat">
                                 <img
-                                  src="/uidesign/send.png"
+                                  src="/uidesignfinal/send.png"
                                   class="search"
                                   alt=" "
                                 />
@@ -221,7 +221,7 @@ export default function Chat5() {
                         <p class="card-title">
                           {' '}
                           <img
-                            src="/uidesign/golfgroup.png"
+                            src="/uidesignfinal/golfgroup.png"
                             alt="bug"
                             height="50px"
                             width="50px"
@@ -232,7 +232,7 @@ export default function Chat5() {
                         <p class="card-text">
                           <small class="text-muted">
                             <img
-                              src="/uidesign/person4.png"
+                              src="/uidesignfinal/person4.png"
                               alt="bug"
                               height="30px"
                               width="30px"
@@ -240,7 +240,7 @@ export default function Chat5() {
                             &nbsp;&nbsp; &nbsp;come tmr if it's not raining
                             <p></p>
                             <img
-                              src="/uidesign/person2.png"
+                              src="/uidesignfinal/person2.png"
                               alt="bug"
                               height="30px"
                               width="30px"
@@ -255,7 +255,7 @@ export default function Chat5() {
                             &nbsp;
                             <Link to="/chat">
                               <img
-                                src="/uidesign/send.png"
+                                src="/uidesignfinal/send.png"
                                 class="search"
                                 alt=" "
                               />
